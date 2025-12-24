@@ -1,4 +1,4 @@
-# 4.VERIFICATION-OF-THEVENIN-S-THEOREM
+<img width="1378" height="1600" alt="image" src="https://github.com/user-attachments/assets/cc90360d-08be-4caa-94a2-952fb0984184" /># 4.VERIFICATION-OF-THEVENIN-S-THEOREM
 
 **AIM:**
 
@@ -50,6 +50,15 @@ Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
 
+**TABULATION**
+
+<img width="955" height="1600" alt="image" src="https://github.com/user-attachments/assets/372075b6-9af2-4daa-a14f-2cf4c7bdf259" />
+
+**CALCULATION**
+<img width="1378" height="1600" alt="image" src="https://github.com/user-attachments/assets/b89b1cda-1193-4944-94ab-a33899cf699c" />
+
+
+
 
 **PROCEDURE:**
 
@@ -78,3 +87,7 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+
+**RESULT**
+
+<img width="1600" height="674" alt="image" src="https://github.com/user-attachments/assets/9ba2346d-8650-4a67-9f47-43f0bcf4e248" />
